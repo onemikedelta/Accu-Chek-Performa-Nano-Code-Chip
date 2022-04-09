@@ -23,5 +23,9 @@ Upper 1: VCC
 
 !! BE CAREFULL !!
 
-I don't have detailed information about these devices and this is not a medical advise. Do everything on your own reponsibility.
+I don't have detailed information about these devices and this is not a medical advise. Do everything on your own reponsibility.  
 I don't care if you get injured or die because of this experiments.
+
+
+You may use arduino code for reading and generating black chips.  
+I used this eeprom library, https://github.com/yazug/EEPROM24C04_16
