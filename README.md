@@ -11,14 +11,14 @@ I didn't waste much time on it, I just wrote black chip contents into the white 
 Note: If you insert black chip once, your device is not going to work with white chips anymore.
 
 Pinout
-(Place the chip pins are on the right hand side)
+(Place the chip pins on the right hand side)
 
-Upper 1: VCC
-2: Write Protect
-3: SCL
-4: SDA
-5: GND
-6: Not connected
+Upper 1: VCC  
+2: Write Protect (VCC = protected, GND = Not Protected)  
+3: SCL  
+4: SDA  
+5: GND  
+6: Not connected  
 
 
 !! BE CAREFULL !!
